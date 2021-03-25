@@ -12,3 +12,17 @@ pre{
 h2{ 
     text-align: center;
 }
+
+a{ 
+background-color: darkblue;
+    color:#ffffff;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+a hover{
+    background-color: aqua;
+    
+}
